@@ -131,8 +131,7 @@ O dataset inclui colunas como:
 
 ## ✍️ Autor
 Como parte de um desafio de análise de dados. Desenvolvido por 
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/126841158?v=4" width=115><br><sub>Mateus Sanfer</sub>](https://github.com/MateusSanfer) |
-| :---: |
+Ronildo Sampaio.
 
 ---
 
