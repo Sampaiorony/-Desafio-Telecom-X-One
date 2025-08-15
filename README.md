@@ -1,10 +1,11 @@
-# -Desafio-Telecom-X-One
+# -Desafio Telecom_X Alura One
 Desafio de Data Science - Análise de Evasão de Clientes (Churn) | Telecomunicações X
 
-Este repositório contém a solução para o desafio proposto pela Telecom X , com foco na análise de evasão de clientes (churn) . O objetivo é entender os fatores que influenciam a saída de clientes da empresa, utilizando Python e bibliotecas de análise de dados.
-# 📊 Desafio de Data Science - Análise de Evasão de Clientes (Churn) | Telecom X
+Este trabalho foi feito para a empresa Telecom X, com o objetivo de descobrir por que alguns clientes deixam de usar os serviços da empresa.
 
-Este repositório contém a solução para o desafio proposto pela **Telecom X**, com foco na **análise de evasão de clientes (churn)**. O objetivo é entender os fatores que influenciam a saída de clientes da empresa, utilizando Python e bibliotecas de análise de dados.
+Em palavras simples, analisamos os dados da empresa para identificar quais motivos mais contribuem para que um cliente cancele seu contrato.
+
+Usamos ferramentas de computador que ajudam a organizar e entender informações (como o Python, que é um tipo de programa para análise de dados), mas a ideia principal é transformar números e registros em respostas claras para que a empresa possa agir e reduzir a perda de clientes.
 
 ---
 
